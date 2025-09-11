@@ -26,7 +26,27 @@ A fresh graduate with strong experience in providing reliable technical support.
   dan menciptakan nilai nyata bagi setiap klien".
 </p>
 
-<img width="400" height="250" alt="rsud tdo" src="https://github.com/user-attachments/assets/82d81959-fc4d-4d4d-812c-7ea6a86a4b3e" />
+<div align="center">
+  <!-- Moraya -->
+  <div style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/82d81959-fc4d-4d4d-812c-7ea6a86a4b3e" width="800" height="600" />
+    <p>
+      <b>RSUD Tondano</b><br>
+      Aplikasi sistem pendataan dan perhitungan indikator pelayanan rumah sakit
+      yang membantu meningkatkan efisiensi kerja tenaga medis.
+    </p>
+  </div>
+
+  <!-- Artscape -->
+  <div style="display:inline-block; text-align:center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/25301897-df86-42f4-943c-1686a4799e31" width="800" height="550"/>
+    <p>
+      <b>Artscape</b><br>
+      Platform kreatif untuk menampilkan karya seni digital dengan tampilan visual
+      yang modern dan interaktif.
+    </p>
+  </div>
+</div>
 
 
 
