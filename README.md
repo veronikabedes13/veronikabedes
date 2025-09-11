@@ -12,7 +12,7 @@
 <p>
   <i>
 
-A fresh graduate with strong experience in providing reliable technical support. Skilled in building and maintaining software systems, I am committed to delivering superior customer service through quick and efficient solutions. I possess strong communication skills, work well in a team, and am ready to take on new challenges in a dynamic work environment. I look forward to contributing to your IT team in achieving excellence in information technology services.
+I am a fresh graduate with strong experience in providing reliable technical support. Skilled in building and maintaining software systems, I am committed to delivering superior customer service through quick and efficient solutions. I possess strong communication skills, work well in a team, and am ready to take on new challenges in a dynamic work environment. I look forward to contributing to your IT team in achieving excellence in information technology services.
 
   </i>
 </p>
@@ -20,7 +20,7 @@ A fresh graduate with strong experience in providing reliable technical support.
 ---
 
 
-<h2 align="center">Project</h2>
+<h1 align="center">Project</h1>
 <p align="center">
   "Dari perencanaan hingga eksekusi, setiap proyek ini dirancang untuk memberikan hasil terbaik 
   dan menciptakan nilai nyata bagi setiap klien".
@@ -28,17 +28,18 @@ A fresh graduate with strong experience in providing reliable technical support.
 
 <div align="center">
   <!-- Moraya -->
+
   <div style="display:inline-block; text-align:center; margin: 10px;">
     <img src="https://github.com/user-attachments/assets/82d81959-fc4d-4d4d-812c-7ea6a86a4b3e" width="800" height="600" />
     <p>
-      <b>RSUD Tondano</b><br>
-      Aplikasi sistem pendataan dan perhitungan indikator pelayanan rumah sakit
-      yang membantu meningkatkan efisiensi kerja tenaga medis.
+  <h2>Mobile App : MORAYA </h2>
+  Mengembangkan aplikasi mobile untuk RSUD Tondano yang mengintegrasikan pencatatan sensus harian rawat inap dengan perhitungan indikator pelayanan rumah sakit seperti BOR, AvLOS, TOI, BTO, GDR, dan NDR. Sistem ini dirancang menggunakan     metodologi Agile Scrum, dengan tujuan meningkatkan efisiensi, akurasi data, dan kecepatan pengambilan keputusan. Aplikasi berhasil diimplementasikan pada perangkat Android dan mampu memproses data secara real-time, menggantikan metode     manual berbasis kertas.
     </p>
   </div>
 
   <!-- Artscape -->
   <div style="display:inline-block; text-align:center; margin: 10px;">
+    <h2> ArtScape </h2>
     <img src="https://github.com/user-attachments/assets/25301897-df86-42f4-943c-1686a4799e31" width="800" height="550"/>
     <p>
       <b>Artscape</b><br>
