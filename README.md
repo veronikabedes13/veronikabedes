@@ -91,38 +91,44 @@ AI features include genre recognition, personal recommendations, and sentiment a
 </div>
 
 #
-<h1 align="center">Experience</h1>
+## 💼 Experience  
 
-<table width="100%" cellspacing="20">
+<table>
   <tr>
-    <!-- Pendidikan -->
+    <!-- Education -->
     <td width="50%" valign="top">
-      <div style="border:1px solid #ccc; border-radius:10px; padding:15px; background-color:#f9f9f9;">
-        <h3>🎓 Education</h3>
-        <p><b>2021 – 2025</b>, Airmadidi, North Minahasa, North Sulawesi</p>
-        <p><b>S1 Informatics Universitas Klabat</b><br>
-        <i>Sarjana Komputer (S.Kom)</i></p>
-        <p>Research: <i>“Aplikasi System Pendataan Dan Perhitungan Indikator Pelayanan Rumah Sakit Di RSUD Tondano”</i></p>
-        <p>GPA: 3.75/4.00</p>
-        <p><i>Honor Graduated with Magna Cumlaude</i></p>
-      </div>
+      <h3>🎓 Education</h3>
+      <p><b>2021 – 2025</b>, Airmadidi, North Minahasa, North Sulawesi</p>
+      <p><b>S1 Informatics Universitas Klabat</b><br>
+      <i>Sarjana Komputer (S.Kom)</i></p>
+      <p>Research: <i>“Aplikasi System Pendataan Dan Perhitungan Indikator Pelayanan Rumah Sakit Di RSUD Tondano”</i></p>
+      <p>GPA: 3.75/4.00</p>
+      <p><i>Honor Graduated with Magna Cumlaude</i></p>
+<!--       organisasi -->
+      <h3>👥 Organization</h3>
+      <p><b>Universitas Klabat</b>, 2021 – 2024, Voice Of Computer Science</p>
+      <p><b>Secretary</b></p>
+      <ul>
+        <li>Managed organizational administration and documentation in a structured manner.</li>
+        <li>Prepared reports and supported effective communication among members.</li>
+        <li>Developed communication, leadership, and time management skills through organizational activities.</li>
+      </ul>
     </td>
-
-  <td width="50%" valign="top">
-  <div style="border:1px solid #ccc; border-radius:10px; padding:15px; background-color:#f9f9f9;">
-    <h3>💼 Pekerjaan</h3>
-    <p><b>2024-07 – 2025-01</b>, RSUD Dr. Sam Ratulangi Tondano</p>
-    <p><b>UI/UX Designer & Front End Developer</b></p>
-    <ul>
-      <li>Designed user-friendly interfaces through wireframes, prototypes, and visual design aligned with hospital goals.</li>
-      <li>Applied Agile Scrum methodology to manage development cycles and maintain communication with stakeholders.</li>
-      <li>Conducted usability testing, gathered and analyzed information, and provided digital transformation solutions.</li>
-      <li>Implemented front-end features, collaborated with cross-functional teams (supervisors, nurses, IT team), and presented system demonstrations.</li>
-    </ul>
-  </div>
-</td>
-</tr>
+    <!-- Internship + Organization -->
+    <td width="50%" valign="top">
+      <h3>💼 Internship</h3>
+      <p><b>2024-07 – 2025-01</b>, RSUD Dr. Sam Ratulangi Tondano</p>
+      <p><b>UI/UX Designer & Front End Developer</b></p>
+      <ul>
+        <li>Designed user-friendly interfaces through wireframes, prototypes, and visual design aligned with hospital goals.</li>
+        <li>Applied Agile Scrum methodology to manage development cycles and maintain communication with stakeholders.</li>
+        <li>Conducted usability testing, gathered and analyzed information, and provided digital transformation solutions.</li>
+        <li>Implemented front-end features, collaborated with cross-functional teams (supervisors, nurses, IT team), and presented system demonstrations.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
+
 
 <h1 align="center">Skills</h1>
 <h2 align="center">Softskill</h2>
