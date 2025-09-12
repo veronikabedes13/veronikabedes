@@ -37,18 +37,55 @@ I am a fresh graduate with strong experience in providing reliable technical sup
     <p>
   <h2>Mobile App : MORAYA </h2>
   Mengembangkan aplikasi mobile untuk RSUD Tondano yang mengintegrasikan pencatatan sensus harian rawat inap dengan perhitungan indikator pelayanan rumah sakit seperti BOR, AvLOS, TOI, BTO, GDR, dan NDR. Sistem ini dirancang menggunakan     metodologi Agile Scrum, dengan tujuan meningkatkan efisiensi, akurasi data, dan kecepatan pengambilan keputusan. Aplikasi berhasil diimplementasikan pada perangkat Android dan mampu memproses data secara real-time, menggantikan metode     manual berbasis kertas.   
-    </p>
+      <h3 align="center">🔗 Links</h3>
+<p align="center">For this part, most of the work I did in:</p>
+
+<p align="center">
+  <a href="https://www.figma.com/design/GRnPPlppyypcjGucw2iNjH/Wireframe-Moraya?node-id=0-1&&t=eAzCAUdMUySOsuVn-1" 
+     style="display:inline-block; padding:10px 20px; margin:8px 0; font-size:16px; font-weight:bold; 
+            color:white; background:#2b6cb0; border-radius:8px; text-decoration:none;">
+     Figma Design UI/UX
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/nathanlukass/BorLosToi" 
+     style="display:inline-block; padding:10px 20px; margin:8px 0; font-size:16px; font-weight:bold; 
+            color:white; background:#38a169; border-radius:8px; text-decoration:none;">
+     GitHub Front End
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/jshtengker/MORAYA_Back-end" 
+     style="display:inline-block; padding:10px 20px; margin:8px 0; font-size:16px; font-weight:bold; 
+            color:white; background:#d69e2e; border-radius:8px; text-decoration:none;">
+     GitHub Back End
+  </a>
+</p>
   </div>
 
-
+#
   <!-- Artscape -->
   <div style="display:inline-block; text-align:center; margin: 10px;">
-    <h2> ArtScape </h2>
     <img src="https://github.com/user-attachments/assets/25301897-df86-42f4-943c-1686a4799e31" width="800" height="550"/>
-    <p>
-      <b>Artscape</b><br>
-      Platform kreatif untuk menampilkan karya seni digital dengan tampilan visual
-      yang modern dan interaktif.
+    <p> 
+      <h2> ArtScape </h2>
+      "ArtScape" is present as a solution for the art landscape in Indonesia.
+Combining the arts industry with technology.
+Addressing artists' challenges in terms of exposure and accessibility.
+Providing a digital platform to exhibit and sell works of art.
+AI features include genre recognition, personal recommendations, and sentiment analysis.
+      <h3 align="center">🔗Links</h3>
+<p align="center">For this part, most of the work I did in:</p>
+
+<p align="center">
+  <a href="https://github.com/ArtScape-Capstone-C241-PS054" 
+     style="display:inline-block; padding:10px 20px; margin:8px 0; font-size:16px; font-weight:bold; 
+            color:white; background:#2b6cb0; border-radius:8px; text-decoration:none;">
+     Github Organization
+  </a>
+</p>
     </p>
   </div>
 </div>
