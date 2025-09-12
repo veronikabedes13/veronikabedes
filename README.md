@@ -121,13 +121,45 @@ AI features include genre recognition, personal recommendations, and sentiment a
     </ul>
   </div>
 </td>
+</tr>
+</table>
 
+<h1 align="center">Skills</h1>
+<h2 align="center">Softskill</h2>
+
+
+
+
+
+
+
+
+#
+<h2 align="center">Hardskill</h2>
+<table>
+  <tr>
+    <td valign="top" width="33%">
+    <h3>UI/UX</h3>
+       <ul>
+      <li>Advanced in Figma</li>
+    </td>
+    <td valign="top" width="33%">
+     <h3>Programming</h3>
+       <ul>
+      <li>Language : Intermediate in JavaScript, Kotlin
+                     Novice in Phyton, C++, C#, Java</li>
+      <li>Framework : Intermediate in React Native, Jetpack Compose</li>
+    </td>
+    <td valign="top" width="33%">
+    <h3>Database</h3>
+    <ul>
+    <li>Platform : Intermediate in MySQL, PHP
+                   Novice in PostgreSQL, Firebase</li>
+    </td>
+    </td>
   </tr>
 </table>
 
-
-## Projects
-"Dari perencanaan hingga eksekusi,setiap proyek ini dirancang untuk memberikan hasil terbaik dan menciptakan nilai nyata bagi setiap klien"
 
 ### Github Statistic
 <p align="left">
