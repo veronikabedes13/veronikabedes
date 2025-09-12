@@ -90,6 +90,40 @@ AI features include genre recognition, personal recommendations, and sentiment a
   </div>
 </div>
 
+#
+<h1 align="center">Experience</h1>
+
+<table width="100%" cellspacing="20">
+  <tr>
+    <!-- Pendidikan -->
+    <td width="50%" valign="top">
+      <div style="border:1px solid #ccc; border-radius:10px; padding:15px; background-color:#f9f9f9;">
+        <h3>🎓 Education</h3>
+        <p><b>2021 – 2025</b>, Airmadidi, North Minahasa, North Sulawesi</p>
+        <p><b>S1 Informatics Universitas Klabat</b><br>
+        <i>Sarjana Komputer (S.Kom)</i></p>
+        <p>Research: <i>“Aplikasi System Pendataan Dan Perhitungan Indikator Pelayanan Rumah Sakit Di RSUD Tondano”</i></p>
+        <p>GPA: 3.75/4.00</p>
+        <p><i>Honor Graduated with Magna Cumlaude</i></p>
+      </div>
+    </td>
+
+  <td width="50%" valign="top">
+  <div style="border:1px solid #ccc; border-radius:10px; padding:15px; background-color:#f9f9f9;">
+    <h3>💼 Pekerjaan</h3>
+    <p><b>2024-07 – 2025-01</b>, RSUD Dr. Sam Ratulangi Tondano</p>
+    <p><b>UI/UX Designer & Front End Developer</b></p>
+    <ul>
+      <li>Designed user-friendly interfaces through wireframes, prototypes, and visual design aligned with hospital goals.</li>
+      <li>Applied Agile Scrum methodology to manage development cycles and maintain communication with stakeholders.</li>
+      <li>Conducted usability testing, gathered and analyzed information, and provided digital transformation solutions.</li>
+      <li>Implemented front-end features, collaborated with cross-functional teams (supervisors, nurses, IT team), and presented system demonstrations.</li>
+    </ul>
+  </div>
+</td>
+
+  </tr>
+</table>
 
 
 ## Projects
