@@ -239,6 +239,18 @@ AWS - Amazon Web Service
 
 <h1 align="center">Certificate of Participation</h1>
 
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/10084447-d6f0-4586-be6b-7aee6f642c7d" width="500" />
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/6f1becd6-4bfe-4799-9bac-d94c7c22f21e" width="500" />
+    </td>
+  </tr>
+</table>
+
+
 
 ### Github Statistic
 <p align="left">
