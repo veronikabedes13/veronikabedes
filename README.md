@@ -12,7 +12,23 @@
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=veronikabedes13&label=Profile%20Views%20&color=ff0000&style=for-the-badge"/></a>
 </p>
 <div align="center">
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/username" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/veronika-bedes-5142b926b/" >
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <!-- Facebook -->
+  <a href="https://web.facebook.com/veronika.vero.7796420">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 <p>
+  <br><br>
   <i>
 I am a fresh graduate with strong experience in providing reliable technical support. Skilled in building and maintaining software systems, I am committed to delivering superior customer service through quick and efficient solutions. I possess strong communication skills, work well in a team, and am ready to take on new challenges in a dynamic work environment. I look forward to contributing to your IT team in achieving excellence in information technology services.
   </i>
@@ -24,8 +40,10 @@ I am a fresh graduate with strong experience in providing reliable technical sup
 
 <h1 align="center">Project</h1>
 <p align="center">
-  "Dari perencanaan hingga eksekusi, setiap proyek ini dirancang untuk memberikan hasil terbaik 
-  dan menciptakan nilai nyata bagi setiap klien".
+  "From planning to execution, each project is designed to deliver the best results and create real value for every client."
+  <br><br>
+
+  
 </p>
 
 <div align="center">
@@ -35,7 +53,7 @@ I am a fresh graduate with strong experience in providing reliable technical sup
     <img src="https://github.com/user-attachments/assets/82d81959-fc4d-4d4d-812c-7ea6a86a4b3e" width="800" height="600" />
     <p>
   <h2>Mobile App : MORAYA </h2>
-  Mengembangkan aplikasi mobile untuk RSUD Tondano yang mengintegrasikan pencatatan sensus harian rawat inap dengan perhitungan indikator pelayanan rumah sakit seperti BOR, AvLOS, TOI, BTO, GDR, dan NDR. Sistem ini dirancang menggunakan     metodologi Agile Scrum, dengan tujuan meningkatkan efisiensi, akurasi data, dan kecepatan pengambilan keputusan. Aplikasi berhasil diimplementasikan pada perangkat Android dan mampu memproses data secara real-time, menggantikan metode     manual berbasis kertas.   
+Developed a mobile application for RSUD Tondano that integrates inpatient daily census recording with the calculation of hospital service indicators such as BOR, AvLOS, TOI, BTO, GDR, and NDR. The system was designed using the Agile Scrum methodology, aiming to improve efficiency, data accuracy, and decision-making speed. The application was successfully implemented on Android devices and is capable of processing data in real time, replacing traditional paper-based methods.
       <h3 align="center">🔗 Links</h3>
 <p align="center">For this part, most of the work I did in:</p>
 
@@ -67,7 +85,7 @@ I am a fresh graduate with strong experience in providing reliable technical sup
 #
   <!-- Artscape -->
   <div style="display:inline-block; text-align:center; margin: 10px;">
-    <img src="https://github.com/user-attachments/assets/25301897-df86-42f4-943c-1686a4799e31" width="800" height="550"/>
+    <img src="https://github.com/user-attachments/assets/222531b7-03eb-46ac-926d-d47a0c62bb7e" width="800" height="600"  />
     <p> 
       <h2> ArtScape </h2>
       "ArtScape" is present as a solution for the art landscape in Indonesia.
