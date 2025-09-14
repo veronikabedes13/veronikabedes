@@ -89,7 +89,7 @@ AI features include genre recognition, personal recommendations, and sentiment a
   </div>
 </div>
 
-#
+
 <h1 align="center">Experience</h1> 
 
 <table>
@@ -107,11 +107,15 @@ AI features include genre recognition, personal recommendations, and sentiment a
       <h3>👥 Organization</h3>
       <p><b>Universitas Klabat</b>, 2021 – 2024, Voice Of Computer Science</p>
       <p><b>Secretary</b></p>
-      <ul>
-        <li>Managed organizational administration and documentation in a structured manner.</li>
-        <li>Prepared reports and supported effective communication among members.</li>
-        <li>Developed communication, leadership, and time management skills through organizational activities.</li>
-      </ul>
+      Managed administration and documentation, prepared reports, and supported communication while enhancing leadership, time management, and communication skills through organizational activities.
+    <hr>
+      <p><b>Universitas Klabat</b>, 2024 – 2024, KSPM - Kelompok Studi Pasar Modal</p>
+      <p><b>Member</b></p>
+      Participated as a member of the KSPM, gaining knowledge in investment, financial literacy, and teamwork through various organizational activities.
+      <hr>
+      <p><b>GMAHK Taman Harapan Parepei Timur</b>, 2020 – 2021, Adventist Youth Organization</p>
+      <p><b>Leader</b></p>
+      Leading and guiding the spiritual life of every youth and teenager toward the truth of God, as well as encouraging them to be actively involved in ministry and spiritual activities.
     </td>
     <!-- Internship + Organization -->
     <td width="50%" valign="top">
