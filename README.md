@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/d71ea9bf-dd90-43c2-9400-802f1f7b720e" width="250">
+<img src="https://github.com/user-attachments/assets/eecc5e34-b7fc-4bde-bcc7-8ea9ac07cee8" width="200">
 </p>
 
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?size=24&color=FFEFAF&center=true&vCenter=true&lines=Hello+%F0%9F%91%8B;I'm+Veronika+Bedes;Open+source+enthusiast;Feel+free+to+look+around+%F0%9F%91%80;Reach+out+if+you+need+help!+%F0%9F%98%87"></div>
@@ -123,7 +123,7 @@ AI features include genre recognition, personal recommendations, and sentiment a
       <p><i>Honor Graduated with Magna Cumlaude</i></p>
 <!--       organisasi -->
       <h3>👥 Organization</h3>
-      <p><b>Universitas Klabat</b>, 2021 – 2024, Voice Of Computer Science</p>
+      <p><b>Universitas Klabat</b>, 2023 – 2024, Voice Of Computer Science Choir</p>
       <p><b>Secretary</b></p>
       Managed administration and documentation, prepared reports, and supported communication while enhancing leadership, time management, and communication skills through organizational activities.
     <hr>
@@ -177,7 +177,7 @@ AI features include genre recognition, personal recommendations, and sentiment a
     <td valign="top" width="33%">
     <h3>UI/UX</h3>
        <ul>
-      <li>Advanced in Figma</li>
+      <li>Intermediate in Figma</li>
     </td>
     <td valign="top" width="33%">
      <h3>Programming</h3>
@@ -198,7 +198,7 @@ AI features include genre recognition, personal recommendations, and sentiment a
       
 ---
       
-<h1 align="center">Certification</h1>
+<h1 align="center">Certifications</h1>
 
 Here are some of the certificates I have achieved:  
 
@@ -304,12 +304,3 @@ AWS - Amazon Web Service
     </tr>
   </table>
 </div>
-
-
-### Github Statistic
-<p align="left">
-<a href="https://github.com/penuliscode">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&layout=compact&theme=algolia"/>
-</a>
-</p>
