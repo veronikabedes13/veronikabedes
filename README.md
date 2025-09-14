@@ -14,7 +14,7 @@
 <div align="center">
 
   <!-- Instagram -->
-  <a href="https://www.instagram.com/username" target="_blank">
+  <a href="https://www.instagram.com/veronika13.__/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 <p>
-  <br><br>
+  <br>
   <i>
 I am a fresh graduate with strong experience in providing reliable technical support. Skilled in building and maintaining software systems, I am committed to delivering superior customer service through quick and efficient solutions. I possess strong communication skills, work well in a team, and am ready to take on new challenges in a dynamic work environment. I look forward to contributing to your IT team in achieving excellence in information technology services.
   </i>
