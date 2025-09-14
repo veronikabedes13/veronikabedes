@@ -11,14 +11,13 @@
   <a href="https://github.com/veronikabedes13/">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=veronikabedes13&label=Profile%20Views%20&color=ff0000&style=for-the-badge"/></a>
 </p>
-<div align="left">
+<div align="center">
 <p>
   <i>
-
 I am a fresh graduate with strong experience in providing reliable technical support. Skilled in building and maintaining software systems, I am committed to delivering superior customer service through quick and efficient solutions. I possess strong communication skills, work well in a team, and am ready to take on new challenges in a dynamic work environment. I look forward to contributing to your IT team in achieving excellence in information technology services.
-
   </i>
 </p>
+</div>
 
 ---
 
@@ -129,19 +128,28 @@ AI features include genre recognition, personal recommendations, and sentiment a
   </tr>
 </table>
 
-
-<h1 align="center">Skills</h1>
-<h2 align="center">Softskill</h2>
+---
 
 
+<h3 align="center">Softskill</h3>
+<div align="center">
 
+<img src="https://img.shields.io/badge/Teamwork-FFD700?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Time%20Management-4682B4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Adaptability-808080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Creativity%20&%20Innovation-FFD700?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Work%20Ethic%20/%20Discipline-4682B4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Fast%20Learner-808080?style=for-the-badge&logoColor=white" />
+<br> 
+<img src="https://img.shields.io/badge/Cross--Division%20Collaboration-FFD700?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Integrity-4682B4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Leadership-808080?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Problem%20Solving-FFD700?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Effective%20Communication-4682B4?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Stress%20Management-808080?style=for-the-badge&logoColor=white" />
+</div>
 
-
-
-
-
-#
-<h2 align="center">Hardskill</h2>
+<h3 align="center">Hardskill</h3>
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -165,7 +173,9 @@ AI features include genre recognition, personal recommendations, and sentiment a
     </td>
   </tr>
 </table>
-
+      
+---
+      
 <h1 align="center">Certification</h1>
 
 Here are some of the certificates I have achieved:  
@@ -174,59 +184,57 @@ Here are some of the certificates I have achieved:
 
 Yayasan Dicoding Indonesia
 
-*Belajar bidang pemrograman agar dapat menjadi pengembang software dengan mengacu pada standar
-okupasi Pengembang Software (kode okupasi KBJI: 2512.03, Indotask: 2512). Di akhir pelatihan, siswa mampu memodifikasi aplikasi perangkat lunak
-menggunakan panduan diagram alur dan pemrograman dengan teknologi HTML, CSS, dan JavaScript tingkat dasar secara tepat sesuai persyaratan
-spesifikasi dan fungsionalitas aplikasi.*
+*Learned the fundamentals of programming to become a software developer, based on the Software Developer occupational standards (KBJI: 2512.03, Indotask: 2512). By the end of the course, participants were able to modify software applications using flowcharts and basic programming with HTML, CSS, and JavaScript in accordance with application specifications and functionality requirements..*
 
 2. [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://github.com/user-attachments/files/22319588/PROGRAMMING.LOGIC.pdf)
 
 Yayasan Dicoding Indonesia
 
-*Belajar logika pada bidang pemrograman dengan mengacu pada standar industri serta dapat memahami logika pemrograman dasar dan menerapkannya dalam pemecahan masalah yang ada di bidang pekerjaan Software Developer.*
+*Studied the fundamentals of programming logic based on industry standards, gaining an understanding of basic programming logic and applying it to problem-solving within software development.*
 
-3. [Belajar Prinsip Pemrograman SOLID](file:///D:/Semester%206/SERTIFIKAT%20COURSE%20DICODING/PEMOGRAMAN%20SOLID.pdf) 
+3. [Belajar Prinsip Pemrograman SOLID](https://github.com/userattachments/files/22320087/PEMOGRAMAN.SOLID.pdf)
+   
 Yayasan Dicoding Indonesia
 
-*Belajar dan memahami bagaimana menuliskan kode yang baik dengan paradigma OOP (object-priented programming) dengan mengacu pada standar industri. Di akhir kelas, siswa dapat memahami kelima prinsip SOLID dan siap menerapkannya dalam mengembangkan aplikasi.*
+*Learned and understood how to write clean code using the OOP (Object-Oriented Programming) paradigm based on industry standards. By the end of the course, participants gained a solid understanding of the five SOLID principles and how to apply them in application development.*
 
 4. [Memulai Pemograman dengan Kotlin](https://github.com/user-attachments/files/22319575/MEMULAI.PEMOGRAMAN.DENGAN.KOTLIN.pdf)
 
 Yayasan Dicoding Indonesia
 
-*Belajar dasar bahasa pemrograman Kotlin dengan mengacu pada standar kompetensi internasional milik Google Developers Authorized Training Partner.  Di akhir kelas, siswa paham tentang konsep dasar bahasa pemrograman, functional programming, serta objectoriented programming (OOP) dengan menggunakan Kotlin.*
+*Studied the basics of Kotlin programming language with reference to international competency standards from Google Developers Authorized Training Partner. By the end of the course, participants understood the fundamentals of programming, functional programming, and object-oriented programming (OOP) using Kotlin.*
 
 5. [Belajar Dasar Git dengan GitHub](https://github.com/user-attachments/files/22319571/GITHUB.pdf)
 
 Yayasan Dicoding Indonesia
 
-*Ditujukan bagi developer yang ingin mempelajari pengelolaan kode atau data menggunakan Git dengan GitHub agar bisa berkolaborasi dengan developer lain yang sesuai dengan standar industri. Di akhir kelas, siswa dapat mengelola kumpulan data atau kode mereka sendiri dalam repository GitHub, serta dapat berkolaborasi dengan developer lain pada repository yang sama.*
+*Designed for developers to learn version control and collaboration using Git and GitHub according to industry standards. By the end of the course, participants were able to manage their own repositories and collaborate effectively with other developers on shared projects.*
 
 6. [Belajar Dasar AI](https://github.com/user-attachments/files/22319569/BELAJAR.DASAR.AI.pdf)
 
 Yayasan Dicoding Indonesia
 
-*Ditujukan untuk pemula yang ingin memulai karier di dunia AI. Setelah mengikuti kelas, siswa diharapkan mampu menelaah berbagai konsep dasar dalam AI beserta penerapannya dengan baik.*
+*An introductory course for beginners who want to start a career in AI. By the end of the course, participants were able to understand fundamental AI concepts and their practical applications.*
 
 7. [Belajar Penerapan Machine Learning untuk Android](https://github.com/user-attachments/files/22319566/APPLY.MACHINE.LEARNING.pdf)
 
 Yayasan Dicoding Indonesia
 
-*Ditujukan bagi Android Developer yang ingin meningkatkan skill-nya dalam menintegrasikan machine learning di Android. Di akhir kelas, siswa dapat membuat aplikasi Android yang mengimplementasikan Machine Learning di perangkat (on-device) untuk mengklasifikasikan gambar dari galeri secara efektif.*
+*Designed for Android developers to enhance their skills in integrating machine learning into Android apps. By the end of the course, participants were able to build Android applications that implement on-device machine learning for tasks such as image classification.*
 
 8. [Belajar Membuat Aplikasi Android untuk Pemula](https://github.com/user-attachments/files/22319564/BELAJAR.MEMBUAT.APK.ANDROID.UNTUK.PEMULA.pdf)
 
 Yayasan Dicoding Indonesia
 
-*Ditujukan bagi pemula yang ingin memulai karirnya di bidang Android Developer dengan mengacu pada standar kompetensi internasional milik Google. Di akhir kelas, siswa dapat membuat aplikasi Android yang dapat menampilkan list dan detail data.*
+*An entry-level course for aspiring Android developers, following international competency standards from Google. By the end of the course, participants were able to develop Android applications that display data lists and details*
 
 9. [Belajar Pengembangan Aplikasi Android Intermediate](https://github.com/user-attachments/files/22319560/INTERMEDIATE.sertifikat_course_352_3829428_300524001353.pdf)
 
 Yayasan Dicoding Indonesia
 
-*Ditujukan bagi Android Developer yang ingin meningkatkan skillnya untuk membuat aplikasi dengan mempelajari berbagai macam komponen Advance. Di akhir kelas, siswa dapat membuat aplikasi dengan menerapkan komponen yang sudah dipelajari.*
+*Designed for Android developers aiming to advance their skills by learning various advanced components. By the end of the course, participants were able to develop Android applications using the advanced features they had studied.*
 
-10.[AWS_Academy_Cloud_Foundations_Badge](https://github.com/user-attachments/files/22319636/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20241203-29-vqvib2.pdf)
+10. [AWS Academy Cloud Foundations](https://github.com/user-attachments/files/22319636/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20241203-29-vqvib2.pdf)
 
 AWS - Amazon Web Service
 *An official badge awarded for completing the AWS Academy Cloud Foundations course, covering fundamental cloud concepts, AWS core services, security, architecture, pricing, and support to build foundational cloud literacy.*
@@ -250,6 +258,30 @@ AWS - Amazon Web Service
   </tr>
 </table>
 
+<h1 align="center">🤝 Let's <i>Collaborate!</i></h1>
+
+<p align="center">
+  Ready to help you create effective and impactful solutions. <br/>
+  <b>Let's start a collaboration that brings real results!</b>
+</p>
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/ios-filled/50/2e7d32/phone.png" width="30"/><br/>
+        <b>Phone</b><br/>
+        0857 5716 1739
+      </td>
+      <td align="center" style="padding-left:30px; padding-right:30px;">
+        <img src="https://img.icons8.com/ios-filled/50/2e7d32/email.png" width="30"/><br/>
+        <b>Email</b><br/>
+        veronikabedes66029@gmail.com
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### Github Statistic
