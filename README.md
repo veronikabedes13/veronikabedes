@@ -91,7 +91,7 @@ AI features include genre recognition, personal recommendations, and sentiment a
 </div>
 
 #
-## 💼 Experience  
+<h1 align="center">Experience</h1> 
 
 <table>
   <tr>
@@ -165,6 +165,79 @@ AI features include genre recognition, personal recommendations, and sentiment a
     </td>
   </tr>
 </table>
+
+<h1 align="center">Certification</h1>
+
+Here are some of the certificates I have achieved:  
+
+1. [Memulai Dasar Pemrograman untuk Menjadi Pengembang Software](https://github.com/user-attachments/files/22319584/PENGEMBANG.SOFTWARE.pdf)
+
+Yayasan Dicoding Indonesia
+
+*Belajar bidang pemrograman agar dapat menjadi pengembang software dengan mengacu pada standar
+okupasi Pengembang Software (kode okupasi KBJI: 2512.03, Indotask: 2512). Di akhir pelatihan, siswa mampu memodifikasi aplikasi perangkat lunak
+menggunakan panduan diagram alur dan pemrograman dengan teknologi HTML, CSS, dan JavaScript tingkat dasar secara tepat sesuai persyaratan
+spesifikasi dan fungsionalitas aplikasi.*
+
+2. [Pengenalan ke Logika Pemrograman (Programming Logic 101)](https://github.com/user-attachments/files/22319588/PROGRAMMING.LOGIC.pdf)
+
+Yayasan Dicoding Indonesia
+
+*Belajar logika pada bidang pemrograman dengan mengacu pada standar industri serta dapat memahami logika pemrograman dasar dan menerapkannya dalam pemecahan masalah yang ada di bidang pekerjaan Software Developer.*
+
+3. [Belajar Prinsip Pemrograman SOLID](file:///D:/Semester%206/SERTIFIKAT%20COURSE%20DICODING/PEMOGRAMAN%20SOLID.pdf) 
+Yayasan Dicoding Indonesia
+
+*Belajar dan memahami bagaimana menuliskan kode yang baik dengan paradigma OOP (object-priented programming) dengan mengacu pada standar industri. Di akhir kelas, siswa dapat memahami kelima prinsip SOLID dan siap menerapkannya dalam mengembangkan aplikasi.*
+
+4. [Memulai Pemograman dengan Kotlin](https://github.com/user-attachments/files/22319575/MEMULAI.PEMOGRAMAN.DENGAN.KOTLIN.pdf)
+
+Yayasan Dicoding Indonesia
+
+*Belajar dasar bahasa pemrograman Kotlin dengan mengacu pada standar kompetensi internasional milik Google Developers Authorized Training Partner.  Di akhir kelas, siswa paham tentang konsep dasar bahasa pemrograman, functional programming, serta objectoriented programming (OOP) dengan menggunakan Kotlin.*
+
+5. [Belajar Dasar Git dengan GitHub](https://github.com/user-attachments/files/22319571/GITHUB.pdf)
+
+Yayasan Dicoding Indonesia
+
+*Ditujukan bagi developer yang ingin mempelajari pengelolaan kode atau data menggunakan Git dengan GitHub agar bisa berkolaborasi dengan developer lain yang sesuai dengan standar industri. Di akhir kelas, siswa dapat mengelola kumpulan data atau kode mereka sendiri dalam repository GitHub, serta dapat berkolaborasi dengan developer lain pada repository yang sama.*
+
+6. [Belajar Dasar AI](https://github.com/user-attachments/files/22319569/BELAJAR.DASAR.AI.pdf)
+
+Yayasan Dicoding Indonesia
+
+*Ditujukan untuk pemula yang ingin memulai karier di dunia AI. Setelah mengikuti kelas, siswa diharapkan mampu menelaah berbagai konsep dasar dalam AI beserta penerapannya dengan baik.*
+
+7. [Belajar Penerapan Machine Learning untuk Android](https://github.com/user-attachments/files/22319566/APPLY.MACHINE.LEARNING.pdf)
+
+Yayasan Dicoding Indonesia
+
+*Ditujukan bagi Android Developer yang ingin meningkatkan skill-nya dalam menintegrasikan machine learning di Android. Di akhir kelas, siswa dapat membuat aplikasi Android yang mengimplementasikan Machine Learning di perangkat (on-device) untuk mengklasifikasikan gambar dari galeri secara efektif.*
+
+8. [Belajar Membuat Aplikasi Android untuk Pemula](https://github.com/user-attachments/files/22319564/BELAJAR.MEMBUAT.APK.ANDROID.UNTUK.PEMULA.pdf)
+
+Yayasan Dicoding Indonesia
+
+*Ditujukan bagi pemula yang ingin memulai karirnya di bidang Android Developer dengan mengacu pada standar kompetensi internasional milik Google. Di akhir kelas, siswa dapat membuat aplikasi Android yang dapat menampilkan list dan detail data.*
+
+9. [Belajar Pengembangan Aplikasi Android Intermediate](https://github.com/user-attachments/files/22319560/INTERMEDIATE.sertifikat_course_352_3829428_300524001353.pdf)
+
+Yayasan Dicoding Indonesia
+
+*Ditujukan bagi Android Developer yang ingin meningkatkan skillnya untuk membuat aplikasi dengan mempelajari berbagai macam komponen Advance. Di akhir kelas, siswa dapat membuat aplikasi dengan menerapkan komponen yang sudah dipelajari.*
+
+10.[AWS_Academy_Cloud_Foundations_Badge](https://github.com/user-attachments/files/22319636/AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20241203-29-vqvib2.pdf)
+
+AWS - Amazon Web Service
+*An official badge awarded for completing the AWS Academy Cloud Foundations course, covering fundamental cloud concepts, AWS core services, security, architecture, pricing, and support to build foundational cloud literacy.*
+
+10. [English for Business Communication](https://github.com/user-attachments/files/22319550/bangkit.7_391.pdf)
+
+  TBI - The British Institute
+
+*The British Institute for completing English for Business Communication program, focusing on professional correspondence, presentations, and workplace communication skills.*
+
+<h1 align="center">Certificate of Participation</h1>
 
 
 ### Github Statistic
